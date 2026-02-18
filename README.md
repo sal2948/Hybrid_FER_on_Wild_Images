@@ -1,4 +1,4 @@
-# DS_UA_301_Project
+# Hybrid FER on Wild Images
 
 If you are looking to run the notebooks, please first click the link below, then click on the folder name ('saved_models'), then select Organize > Add Shortcut > My Drive.
 
